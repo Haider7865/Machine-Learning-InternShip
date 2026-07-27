@@ -1,0 +1,30 @@
+
+BUSINESS INDICATORS
+
+1. High-Income Customers
+Customers with high income have greater purchasing capacity and may respond
+well to premium products and exclusive offers.
+
+2. Frequent Buyers
+Customers with many web, catalogue, or store purchases are frequent buyers.
+They are important for customer retention and loyalty programs.
+
+3. Campaign Responders
+Customers who accepted previous campaigns may respond positively to future
+marketing offers.
+
+4. Customers with Complaints
+Customers with complaints may be dissatisfied. Their issues should be handled
+quickly to improve customer satisfaction.
+
+5. Website Visitors
+Website visits measure online engagement. Comparing visits with purchases can
+help evaluate website conversion.
+
+6. High-Spending Customers
+Customers spending large amounts across product categories are valuable and
+can be targeted with premium recommendations.
+
+7. Recently Active Customers
+Customers with low Recency values purchased recently and may be more likely
+to respond to new promotions.

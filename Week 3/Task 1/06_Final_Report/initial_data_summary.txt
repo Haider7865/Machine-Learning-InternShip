@@ -1,0 +1,24 @@
+
+CUSTOMER PERSONALITY ANALYSIS – INITIAL DATA SUMMARY
+
+Dataset Overview:
+The dataset contains customer demographics, income, purchasing behavior,
+campaign responses, complaints, and website engagement.
+
+Number of Records: 2240
+Number of Variables: 29
+Numerical Variables: 26
+Categorical Variables: 9
+Total Missing Values: 24
+Columns Without Missing Values: 28
+Duplicate Records: 0
+Duplicate Customer IDs: 0
+
+Major Data Quality Issues:
+The main issues include missing Income values, invalid birth years,
+possible income outliers, unexpected marital-status categories,
+an unclear education category, and constant variables.
+
+Recommendation:
+These issues should be reviewed and handled during the preprocessing stage.
+No preprocessing has been performed in this task.
