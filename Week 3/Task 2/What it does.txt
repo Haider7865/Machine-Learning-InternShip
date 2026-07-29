@@ -1,0 +1,29 @@
+"""
+==============================================================
+Data Cleaning and Preprocessing
+Customer Personality Analysis Dataset
+Module 03 - Machine Learning Internship (AI Lab 99)
+==============================================================
+
+This script performs the full, reproducible preprocessing
+pipeline for the Customer Personality Analysis dataset:
+
+  1. Load & inspect the raw dataset
+  2. Identify data quality issues
+  3. Handle missing values
+  4. Remove duplicate records
+  5. Correct data types
+  6. Convert date columns
+  7. Standardize categorical variables
+  8. Detect unrealistic customer ages
+  9. Detect income / spending outliers
+ 10. Handle outliers
+ 11. Validate the cleaned dataset
+ 12. Save the cleaned dataset
+ 13. Reusable functions (this file itself)
+ 14. Before-and-after comparison
+ 15. (Report is generated separately from the outputs below)
+
+Run:
+    python preprocessing.py
+"""
