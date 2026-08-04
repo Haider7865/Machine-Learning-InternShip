@@ -1,0 +1,23 @@
+"""
+==============================================================
+Exploratory Data Analysis (EDA)
+Customer Personality Analysis Dataset
+Module 04 - Machine Learning Internship (AI Lab 99)
+==============================================================
+
+Performs Tasks 1-11:
+ 1. Dataset Overview
+ 2. Customer Demographic Analysis
+ 3. Customer Spending Analysis
+ 4. Purchasing Behavior Analysis
+ 5. Website Engagement Analysis
+ 6. Customer Recency Analysis
+ 7. Marketing Campaign Analysis
+ 8. Customer Complaint Analysis
+ 9. Correlation Analysis
+10. Customer Segmentation
+11. Business Insights
+
+Run:
+    python eda_analysis.py
+"""
