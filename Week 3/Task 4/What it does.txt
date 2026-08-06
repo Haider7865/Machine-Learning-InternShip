@@ -1,0 +1,22 @@
+"""
+==============================================================
+Feature Engineering & Data Preprocessing
+Customer Personality Segmentation Project
+Module 05 - Machine Learning / Data Analytics (CPS-M05)
+==============================================================
+
+Transforms the cleaned customer dataset into a machine-learning-ready
+dataset for customer segmentation (clustering):
+
+ 1. Customer Feature Creation
+ 2. Categorical Feature Encoding
+ 3. Feature Selection
+ 4. Skewness Analysis & Transformation
+ 5. Feature Scaling
+ 6. Feature Engineering Documentation (Feature Dictionary)
+ 7. Reusable Preprocessing Pipeline (this file)
+ 8. Final Dataset Validation
+
+Run:
+    python feature_engineering_pipeline.py
+"""
