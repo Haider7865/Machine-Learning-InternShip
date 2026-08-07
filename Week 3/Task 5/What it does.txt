@@ -1,0 +1,29 @@
+"""
+==============================================================
+Customer Segmentation Model Development
+Customer Personality Analysis & Customer Segmentation Project
+Module 06 - Machine Learning (ML-M06)
+==============================================================
+
+Covers Tasks 1-17:
+ 1. Review Clean Dataset
+ 2. Feature Selection for Clustering
+ 3. Feature Scaling
+ 4. Exploratory Cluster Analysis
+ 5. Optimal K (Elbow Method)
+ 6. Silhouette Score Analysis
+ 7. Davies-Bouldin Index
+ 8. Baseline Model (K-Means)
+ 9. Hierarchical Clustering
+10. Gaussian Mixture Model
+11. DBSCAN Clustering
+12. Algorithm Comparison
+13. Cluster Profiling
+14. Cluster Visualization
+15. Cluster Stability Analysis
+16. Final Model Selection
+17. Save Production Pipeline
+
+Run:
+    python clustering_pipeline.py
+"""
