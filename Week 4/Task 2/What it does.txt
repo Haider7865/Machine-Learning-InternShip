@@ -1,0 +1,26 @@
+"""
+==============================================================
+Business Insights and Marketing Recommendations
+Customer Personality Analysis Dataset
+Module 08 - Machine Learning
+==============================================================
+
+Transforms Module 07's customer segments into practical marketing and
+business strategy deliverables:
+
+ 1. Review Customer Segments
+ 2. Develop Customer Personas
+ 3. Analyze Business Opportunities
+ 4. Marketing Strategy Design
+ 5. Product Recommendation Strategy
+ 6. Pricing and Discount Strategy
+ 7. Customer Retention Strategy
+ 8. Customer Reactivation Strategy
+ 9. Campaign Action Plan
+10. Marketing Strategy Matrix
+11. Business Dashboard
+12. Management Summary Report (content assembled here, written to PDF separately)
+
+Run:
+    python business_insights.py
+"""
