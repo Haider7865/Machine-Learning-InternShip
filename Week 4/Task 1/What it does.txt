@@ -1,0 +1,21 @@
+"""
+==============================================================
+Cluster Evaluation & Customer Profiling
+Customer Personality Analysis Dataset
+Module 07 - Machine Learning
+==============================================================
+
+Converts the K-Means clusters produced in Module 06 into meaningful,
+business-actionable customer segments via:
+
+Activity 1: Cluster Statistics & Demographic Analysis
+Activity 2: Spending Behavior Analysis
+Activity 3: Shopping Channel & Customer Engagement Analysis
+Activity 4: Marketing Campaign Analysis
+Activity 5: Business Segmentation & Cluster Naming
+Activity 6: Customer Persona Development
+Activity 7: Cluster Visualization & Final Documentation
+
+Run:
+    python cluster_profiling.py
+"""
