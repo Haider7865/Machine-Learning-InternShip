@@ -1,0 +1,14 @@
+.
+./app
+./app/components
+./data
+./data/processed
+./data/raw
+./documentation
+./documentation/screenshots
+./models
+./notebooks
+./presentation
+./reports
+./src
+./tests
