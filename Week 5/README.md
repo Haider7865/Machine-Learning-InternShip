@@ -1,4 +1,4 @@
-# Week 1: Modules 9, 10 & 11 — Dashboard, QA, Documentation & Final Presentation
+# Week 5: Modules 9, 10 & 11 — Dashboard, QA, Documentation & Final Presentation
 
 **Customer Segmentation Project — AI Lab 99 Internship Program**
 **Target Due: 2026-08-14**
